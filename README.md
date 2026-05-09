@@ -147,5 +147,5 @@ VITE_BACKEND_URL=https://your-backend-url.onrender.com
 
 # Author
 
-Built by Yadaw
+Built by Yadiel Tesfaye
 
