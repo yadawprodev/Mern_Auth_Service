@@ -145,6 +145,14 @@ VITE_BACKEND_URL=https://your-backend-url.onrender.com
 
 ---
 
+# Live Demo
+
+Frontend Application: https://mern-auth-service.vercel.app
+
+Backend API: https://mern-auth-service-95rc.onrender.com
+
+---
+
 # Author
 
 Built by Yadiel Tesfaye
