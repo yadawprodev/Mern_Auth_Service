@@ -57,7 +57,7 @@ FRONTEND_URL=http://localhost:5173
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/mern-auth-service.git
+git clone https://github.com/yadawprodev/Mern_Auth_Service.git
 ```
 
 Move into the project directory:
